@@ -178,6 +178,7 @@ Dengan kode ini, sebuah dialog JFileChooser akan muncul sehingga Anda bisa memil
 
 
 ## Contoh Gambar Project Setelah di Run
+![Cuplikan layar 2024-11-18 112842](https://github.com/user-attachments/assets/7614fe97-b5b0-428d-96a0-31945a473803)
 
 
 ## Indikator Penilaian:
